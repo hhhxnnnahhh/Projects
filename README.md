@@ -9,7 +9,4 @@ Collaboration has been a cornerstone of my experience, and I have had the privil
 ### Hotel Managment System
 Description: I collaborated with 5 teammates to implement a hotel management system in C++. The Project HOTEL MANAGEMENT SYSTEM is an application that allows the hotel manager to handle all hotel activities online. Interactive GUI and the ability to manage various hotel bookings and rooms make this system very flexible and convenient. Hotel Management project provides room booking, staff management and other necessary hotel management features. The system allows the manager to post available rooms in the system.
 
-My Role: As the coordinator of the group, I managed to divide tasks and keep track of the work while also helping and fixing any errors, and contributed to user interface design.
-
 Technologies Used: C++
-Outcome: We managed to score the highest grade in the project.  
